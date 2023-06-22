@@ -20,6 +20,8 @@ nano /etc/keepalived/keepalived.conf
 ### Architecture - keepalived
 ![keepalived1](https://github.com/vigneshkannan255/keepalived/assets/32855922/fa4a9ed5-ce35-4e3a-95b6-a15cdd153fac)
 
+
+### Keepalived with Nginx upstream.
 ### Install nginx.
 ```
 apt install nginx
