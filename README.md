@@ -1,4 +1,17 @@
-## Keepalived
+<div align="center">
+	<h1>
+		<br>
+    Keepalived
+	</h1>
+</div>
+
+
+
+</div>
+
+Keepalived provides frameworks for both load balancing and high availability. The load balancing framework relies on the well-known and widely used Linux Virtual Server (IPVS) kernel module, which provides Layer 4 load balancing. Keepalived implements a set of health checkers to dynamically and adaptively maintain and manage load balanced server pools according to their health. High availability is achieved by the Virtual Redundancy Routing Protocol (VRRP). VRRP is a fundamental brick for router failover. In addition, keepalived implements a set of hooks to the VRRP finite state machine providing low-level and high-speed protocol interactions. Each Keepalived framework can be used independently or together to provide resilient infrastructures.
+
+</div>
 
 ### Install keepalived.
 ```
